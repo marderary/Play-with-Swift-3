@@ -56,14 +56,13 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 2-3 Double, Float and Type Conversion [**Course Video**](http://t.imooc.com/video/11394)
       * [Double and Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
       * [Type Conversion](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
-      * [Floating Point Protocol]()
+      * [Floating Point Protocol](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-3-Floating-Point-Protocol.playground/Contents.swift)
    * 2-4 Boolean and ``if`` Statement [**Course Video**](http://t.imooc.com/video/11395)
-      * [Boolean and if-Statement](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
+      * [Boolean and if-Statement](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
    * 2-5 Tuples [**Course Video**](http://t.imooc.com/video/11396)
-      * [Tuples](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
+      * [Tuples](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
    * 2-6 Variable Names, Function ``print`` and Comments [**Course Video**](http://t.imooc.com/video/11397)
-      * [Variable Names, Function print and Comments](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/06-Others.playground/Contents.swift)
-      
+      * [Variable Names, Function print and Comments](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/06-Others.playground/Contents.swift)  
       
 ---
 
@@ -81,6 +80,22 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [使用Playgrounf尝试动画编程](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/04-Play-with-Animation.playground/Contents.swift)
       * [使用Playground体验UIDynamics](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/05-UIDynamics.playground/Contents.swift)
       * [Playground小试](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/06-Playground-Test.playground/Contents.swift)
+
+* **第二章：基本类型** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/02-Basics)
+   * 2-1 常量、变量和声明 [**课程视频**](http://t.imooc.com/video/11392)
+      * [常量和变量](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/01-Constants-and-Variables.playground/Contents.swift)
+   * 2-2 整型 [**课程视频**](http://t.imooc.com/video/11393)
+      * [整型](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/02-Int.playground/Contents.swift)
+   * 2-3 浮点数和类型转换 [**课程视频**](http://t.imooc.com/video/11394)
+      * [Double 和 Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
+      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
+      * [FloatingPoint协议](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-3-Floating-Point-Protocol.playground/Contents.swift)
+   * 2-4 布尔类型和简单的if语句 [**课程视频**](http://t.imooc.com/video/11395)
+      * [布尔类型和简单的if语句](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
+   * 2-5 元组 [**课程视频**](http://t.imooc.com/video/11396)
+      * [元组](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
+   * 2-6 其他：变量名、print和注释 [**课程视频**](http://t.imooc.com/video/11397)
+      * [变量名、print函数和注释](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/06-Others.playground/Contents.swift)
 
 ---
 
