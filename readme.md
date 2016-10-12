@@ -47,6 +47,23 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [Play with Animation](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/04-Play-with-Animation.playground/Contents.swift)
       * [Play with UIDynamics](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/05-UIDynamics.playground/Contents.swift)
       * [Playground Test](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/01-Introduction/06-Playground-Test.playground/Contents.swift)
+
+* **Chapter Two：Basic Types** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/02-Basics)
+   * 2-1 Declare Constants and Variables [**Course Video**](http://t.imooc.com/video/11392)
+      * [Constants and Variables](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/01-Constants-and-Variables.playground/Contents.swift)
+   * 2-2 Integer [**Course Video**](http://t.imooc.com/video/11393)
+      * [Integer](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/02-Int.playground/Contents.swift)
+   * 2-3 Double, Float and Type Conversion [**Course Video**](http://t.imooc.com/video/11394)
+      * [Double and Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
+      * [Type Conversion](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
+      * [Floating Point Protocol]()
+   * 2-4 Boolean and ``if`` Statement [**Course Video**](http://t.imooc.com/video/11395)
+      * [Boolean and if-Statement](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
+   * 2-5 Tuples [**Course Video**](http://t.imooc.com/video/11396)
+      * [Tuples](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
+   * 2-6 Variable Names, Function ``print`` and Comments [**Course Video**](http://t.imooc.com/video/11397)
+      * [Variable Names, Function print and Comments](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/06-Others.playground/Contents.swift)
+      
       
 ---
 
