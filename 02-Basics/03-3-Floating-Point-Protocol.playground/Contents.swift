@@ -4,7 +4,7 @@ import UIKit
 
 // 这部分内容中为swift3更新后的新内容，涉及这套课程在第二三四季的内容。如果看不懂，可以学习完整套课程后，再回过头来看。
 
-// Swift3使用了FloatingPoint这样的一个协议，来尝试统一大部分浮点类型。因此，我们写一个函数，可以不用指定这个函数到底是Float还是CGFloat或者是Double，只需要指定他是浮点型FloatingPoint就好了。比如：
+// Swift3引入了FloatingPoint这样的一个协议，来尝试统一不同的浮点类型。在这个协议下，我们写一个函数，可以不用指定这个函数到底是Float还是CGFloat或者是Double（其实还有更多浮点类型），只需要指定他是浮点型FloatingPoint就好了。比如：
 func hypotenuse<T: FloatingPoint>(_ a: T, _ b: T) -> T{
     return (a*a + b*b).squareRoot()
 }
