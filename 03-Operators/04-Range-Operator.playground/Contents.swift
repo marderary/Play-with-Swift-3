@@ -5,6 +5,7 @@ import UIKit
 for index in 1...10{
     index
     
+    // index属于常量，不能再循环体内被修改！
     //index = 3
 }
 
