@@ -62,7 +62,17 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 2-5 Tuples [**Course Video**](http://t.imooc.com/video/11396)
       * [Tuples](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
    * 2-6 Variable Names, Function ``print`` and Comments [**Course Video**](http://t.imooc.com/video/11397)
-      * [Variable Names, Function print and Comments](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/06-Others.playground/Contents.swift)  
+      * [Variable Names, Function print and Comments](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/06-Others.playground/Contents.swift) 
+
+* **Chapter Three: Operator** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/03-Operators)
+   * 3-1 Basic Operators [**Course Video**](http://t.imooc.com/video/11398)
+      * [Basic Operators](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/01-Basic-Operator.playground/Contents.swift)
+   * 3-2 Comparison Operator, Logic Operator and `if`-Statement again [**Course Video**](http://t.imooc.com/video/11399)
+      * [Comparison Operator, Logic Operator and if-Statement](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/02-Comparison-and-Logic-Operator.playground/Contents.swift)
+   * 3-3 Ternary Condition Operator and Initialization [**Course Video**](http://t.imooc.com/video/11400)
+      * [Ternary Condition Operator and Initialization](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/03-Ternary-Operator.playground/Contents.swift)
+   * 3-4 Range Operator and ``for-in`` [**Course Video**](http://t.imooc.com/video/11401)
+      * [Range Operator and for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/04-Range-Operator.playground/Contents.swift) 
       
 ---
 
@@ -96,6 +106,16 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [元组](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/05-Tuple.playground/Contents.swift) 
    * 2-6 其他：变量名、print和注释 [**课程视频**](http://t.imooc.com/video/11397)
       * [变量名、print函数和注释](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/06-Others.playground/Contents.swift)
+
+* **第三章 运算符** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/03-Operators)
+   * 3-1 基础运算符 [**课程视频**](http://t.imooc.com/video/11398)
+      * [基础运算符](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/01-Basic-Operator.playground/Contents.swift)
+   * 3-2 比较运算符、逻辑运算符和判断语句 [**课程视频**](http://t.imooc.com/video/11399)
+      * [比较运算符、逻辑运算符和判断语句](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/02-Comparison-and-Logic-Operator.playground/Contents.swift)
+   * 3-3 三目运算符与变量初始化 [**课程视频**](http://t.imooc.com/video/11400)
+      * [三目运算符与变量初始化](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/03-Ternary-Operator.playground/Contents.swift)
+   * 3-4 范围运算符和for-in [**课程视频**](http://t.imooc.com/video/11401)
+      * [范围运算符和for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/04-Range-Operator.playground/Contents.swift)
 
 ---
 
