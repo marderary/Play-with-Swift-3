@@ -42,6 +42,30 @@ let price = 70
 let capacity = 50
 let volume = 20
 
-buy( money, price: price, capacity: capacity, volume: volume)
-buy2( money, price: price, capacity: capacity, volume: volume)
+//swift2
+//buy( money, price: price, capacity: capacity, volume: volume)
+//buy2( money, price: price, capacity: capacity, volume: volume)
+
+//swift3中函数的第一参数名在调用的时候须显示,如果显示的声明函数第一个参数名不需要的话也是可以的，参考下面buy3函数
+buy( money: money, price: price, capacity: capacity, volume: volume)
+buy2( money: money, price: price, capacity: capacity, volume: volume)
+
+//swift3 中显示的声明第一个参数可以省略，则在调用的时候可以省略第一个参数名（label）
+func buy3(_ money: Int , price: Int , capacity: Int , volume: Int){
+    
+    guard money >= price else{
+        print("Not enough money")
+        return
+    }
+    
+    guard capacity >= volume else{
+        print("Not enough capacity")
+        return
+    }
+    
+    print("\(money-price) Yuan left.")
+    print("\(capacity-volume) cubic meters left")
+}
+
+buy3( money, price: price, capacity: capacity, volume: volume)
 
