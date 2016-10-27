@@ -32,7 +32,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 
 ##Catalogue - 课程目录 
 
-中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-2#第一季)查看中文目录
+中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-3#第一季)查看中文目录
 
 ### **Season One**
 * **Chapter One - Introduction** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/01-Introduction)
@@ -99,6 +99,17 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 4-7 ``guard`` and Code Style of Swift [**Course Video**](http://t.imooc.com/video/11442)
       * [guard](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
       
+* **Chapter Five：String** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/05-Strings)
+   * 5-1 String Basics [**Course Video**](http://t.imooc.com/video/11408)
+      * [String Basics](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/01-String-Basics.playground/Contents.swift)
+   * 5-2 ``Character`` and Unicode [**Course Video**](http://t.imooc.com/video/11409)
+      * [Characters](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/02-Characters.playground/Contents.swift)
+   * 5-3 ``String.Index`` and ``Range`` [**Course Video**](http://t.imooc.com/video/11410)
+      * [String.Index](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/03-String.playground/Contents.swift)
+   * 5-4 ``as`` and ``NSString`` [**Course Video**](http://t.imooc.com/video/11411)
+      * [NSString](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/04-NSString.playground/Contents.swift)
+   * 5-5 Refer to the Documents [**Course Video**](http://t.imooc.com/video/11412)
+   
 ---
 
 ###**第一季**
@@ -123,7 +134,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [整型](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/02-Int.playground/Contents.swift)
    * 2-3 浮点数和类型转换 [**课程视频**](http://t.imooc.com/video/11394)
       * [Double 和 Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
-      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
+      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
       * [FloatingPoint协议](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-3-Floating-Point-Protocol.playground/Contents.swift)
    * 2-4 布尔类型和简单的if语句 [**课程视频**](http://t.imooc.com/video/11395)
       * [布尔类型和简单的if语句](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
@@ -167,6 +178,17 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 4-7 guard 及代码风格初探 [**课程视频**](http://t.imooc.com/video/11442)
       * [guard](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
       
+* **第五章：字符串** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/05-Strings)
+   * 5-1 字符串基础 [**课程视频**](http://t.imooc.com/video/11408)
+      * [字符串基础](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/01-String-Basics.playground/Contents.swift)
+   * 5-2 Character和Unicode [**课程视频**](http://t.imooc.com/video/11409)
+      * [Characters](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/02-Characters.playground/Contents.swift)
+   * 5-3 String.Index 和 Range [**课程视频**](http://t.imooc.com/video/11410)
+      * [String.Index](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/03-String.playground/Contents.swift)
+   * 5-4 as 和 NSString [**课程视频**](http://t.imooc.com/video/11411)
+      * [NSString](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/04-NSString.playground/Contents.swift)
+   * 5-5 文档查询 [**课程视频**](http://t.imooc.com/video/11412)
+   
 ---
 
 ## Contributors and Acknowledgements 贡献者.致谢
