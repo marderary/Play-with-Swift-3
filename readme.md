@@ -197,7 +197,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 
 特别感谢以下github用户，帮助完善了这个课程的代码：
 
-* (marderary)[https://github.com/marderary]
+* [marderary](https://github.com/marderary)
 
 最后，感谢这个时代。
 
