@@ -4,14 +4,22 @@ import UIKit
 
 let str = "Hello, swift"
 
-// 大小写转换
-str.uppercaseString
-str.lowercaseString
-str.capitalizedString
+// 本小节所涉及的API，大多数也经过了Swift3的化简。请大家体会Swift3对调用的字符串方法名称的化简。
 
+// 大小写转换
+//swift2: str.uppercaseString
+str.uppercased()
+
+//swift2: str.lowercaseString
+str.lowercased()
+
+//swift2: str.capitalizedString
+str.capitalized
 
 // 使用String的方法
-str.containsString("Hello")
+//swift2: str.containsString("Hello")
+str.contains("Hello")
+
 str.hasPrefix("Hello")
 str.hasSuffix("swift")
 
@@ -31,9 +39,14 @@ print(s2)
 
 // NSString
 var s3:NSString = "one third is 0.33😀"
-s3.substringFromIndex(4)
-s3.substringToIndex(3)
-s3.substringWithRange(NSMakeRange(4, 5))
+//swift2: s3.substringFromIndex(4)
+s3.substring(from: 4)
+
+//swift2: s3.substringToIndex(3)
+s3.substring(to: 3)
+
+//swift2: s3.substringWithRange(NSMakeRange(4, 5))
+s3.substring(with: NSMakeRange(4, 5))
 
 
 // String和NSString的不同
@@ -44,11 +57,13 @@ s5.length
 
 
 let s6 = "   --- Hello -----    " as NSString
-s6.stringByTrimmingCharactersInSet(NSCharacterSet(charactersInString: " -"))
+//swift2: s6.stringByTrimmingCharactersInSet(NSCharacterSet(charactersInString: " -"))
+s6.trimmingCharacters(in: CharacterSet(charactersIn: " -"))
 
-let range = s6.rangeOfString("ll")
+//swift2: let range = s6.rangeOfString("ll")
+let range = s6.range(of: "ll")
 range.location
 range.length
 
-s4.stringByReplacingOccurrencesOfString("He", withString: "Apo")
-
+//swift2: s6.stringByReplacingOccurrencesOfString("He", withString: "Apo")
+s6.replacingOccurrences(of: "He", with: "Apo")
