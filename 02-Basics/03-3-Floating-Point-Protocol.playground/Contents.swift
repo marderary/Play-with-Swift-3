@@ -19,7 +19,7 @@ hypotenuse(aCGFloat, bCGFloat)
 
 let aDouble: Double = 3.0
 let bDouble: Double = 4.0
-hypotenuse(aCGFloat, bCGFloat)
+hypotenuse(aDouble, bDouble)
 
 
 // FloatingPoint还提供了很多特殊的符号，来表征一些特殊的数字，如：
@@ -37,7 +37,7 @@ beta * .pi
 // Infinity
 func findMin<T: FloatingPoint>(values: [T]) -> T{
     
-    var res = -T.infinity
+    var res = T.infinity
     for v in values{
         res = v < res ? v : res
     }
@@ -61,7 +61,8 @@ func divide<T: FloatingPoint>(_ a: T, _ b: T) -> T{
 }
 
 divide(10, 0)
-divide(10,0.00000000000000000000000000000000000000001)
+divide(10, 0).isNaN
+
 
 // NaN的应用2
 let temperatureData = ["21.5", "19.25", "27", "no data", "28.25", "no data", "23"]
