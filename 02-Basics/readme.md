@@ -27,7 +27,7 @@
       * [整型](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/02-Int.playground/Contents.swift)
    * 2-3 浮点数和类型转换 [**课程视频**](http://t.imooc.com/video/11394)
       * [Double 和 Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
-      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
+      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
       * [FloatingPoint协议](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-3-Floating-Point-Protocol.playground/Contents.swift)
    * 2-4 布尔类型和简单的if语句 [**课程视频**](http://t.imooc.com/video/11395)
       * [布尔类型和简单的if语句](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
