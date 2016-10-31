@@ -32,7 +32,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 
 ##Catalogue - 课程目录 
 
-中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-2#第一季)查看中文目录
+中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-3#第一季)查看中文目录
 
 ### **Season One**
 * **Chapter One - Introduction** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/01-Introduction)
@@ -74,6 +74,42 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 3-4 Range Operator and ``for-in`` [**Course Video**](http://t.imooc.com/video/11401)
       * [Range Operator and for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/04-Range-Operator.playground/Contents.swift) 
       
+* **Chapter Four: Control Flow** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/04-Control-Flow)
+   * 4-1 Loop - ``for-in`` and ``for`` [**Course Video**](http://t.imooc.com/video/11402)
+      * [for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-1-Loop-for-in.playground/Contents.swift) 
+      * [for](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-2-Loop-for.playground/Contents.swift)
+      * [C style for in Swift3](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-3-Loop-for-in-Swift3.playground/Contents.swift)
+   * 4-2 Loop - ``while`` and ``repeat`` [**Course Video**](http://t.imooc.com/video/11403)
+      * [while](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-1-Loop-while.playground/Contents.swift)
+      * [repeat](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-2-Loop-repeat.playground/Contents.swift)
+      * [break and continue](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-3-break-and-continue.playground/Contents.swift)
+   * 4-3 Conditional Statements - ``if``, ``else`` and ``switch`` [**Course Video**](http://t.imooc.com/video/11404)
+      * [if, else and switch](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/03-if-else-switch.playground/Contents.swift) 
+   * 4-4 Advanced ``switch`` [**Course Video**](http://t.imooc.com/video/11405)
+      * [interval matching](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-1.playground/Contents.swift)
+      * [tuple matching](https://github.com/liuyu3obobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-2.playground/Contents.swift)
+      * [match any in tuple matching](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-3.playground/Contents.swift)
+      * [fall through](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-fallthrough.playground/Contents.swift) 
+   * 4-5 Control Transfer [**Course Video**](http://t.imooc.com/video/11406)
+      * [control transfer](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/05-control-transfer.playground/Contents.swift)
+   * 4-6 ``where`` and Pattern Matching [**Course Video**](http://t.imooc.com/video/11407)
+      * [where in switch](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-1-where-in-switch.playground/Contents.swift)
+      * [if case where](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-2-if-case-where.playground/Contents.swift)
+      * [for case where](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-3-for-case-where.playground/Contents.swift)  
+   * 4-7 ``guard`` and Code Style of Swift [**Course Video**](http://t.imooc.com/video/11442)
+      * [guard](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
+      
+* **Chapter Five：String** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/05-Strings)
+   * 5-1 String Basics [**Course Video**](http://t.imooc.com/video/11408)
+      * [String Basics](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/01-String-Basics.playground/Contents.swift)
+   * 5-2 ``Character`` and Unicode [**Course Video**](http://t.imooc.com/video/11409)
+      * [Characters](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/02-Characters.playground/Contents.swift)
+   * 5-3 ``String.Index`` and ``Range`` [**Course Video**](http://t.imooc.com/video/11410)
+      * [String.Index](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/03-String.playground/Contents.swift)
+   * 5-4 ``as`` and ``NSString`` [**Course Video**](http://t.imooc.com/video/11411)
+      * [NSString](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/04-NSString.playground/Contents.swift)
+   * 5-5 Refer to the Documents [**Course Video**](http://t.imooc.com/video/11412)
+   
 ---
 
 ###**第一季**
@@ -98,7 +134,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
       * [整型](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/02-Int.playground/Contents.swift)
    * 2-3 浮点数和类型转换 [**课程视频**](http://t.imooc.com/video/11394)
       * [Double 和 Float](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-1-Float-and-Double.playground/Contents.swift)
-      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-2/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
+      * [类型转换](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-2-Conversion.playground/Contents.swift)
       * [FloatingPoint协议](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/03-3-Floating-Point-Protocol.playground/Contents.swift)
    * 2-4 布尔类型和简单的if语句 [**课程视频**](http://t.imooc.com/video/11395)
       * [布尔类型和简单的if语句](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/02-Basics/04-Boolean-and-if.playground/Contents.swift)
@@ -117,6 +153,42 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
    * 3-4 范围运算符和for-in [**课程视频**](http://t.imooc.com/video/11401)
       * [范围运算符和for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/03-Operators/04-Range-Operator.playground/Contents.swift)
 
+* **第四章：逻辑控制** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/04-Control-Flow)
+   * 4-1 循环结构 - for-in,for [**课程视频**](http://t.imooc.com/video/11402)
+      * [for-in](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-1-Loop-for-in.playground/Contents.swift) 
+      * [for](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-2-Loop-for.playground/Contents.swift)
+      * [在Swift3中如何写C风格的循环](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/01-3-Loop-for-in-Swift3.playground/Contents.swift)
+   * 4-2 循环结构 - while和repeat [**课程视频**](http://t.imooc.com/video/11403)
+      * [while](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-1-Loop-while.playground/Contents.swift)
+      * [repeat](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-2-Loop-repeat.playground/Contents.swift)
+      * [break 和 continue](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/02-3-break-and-continue.playground/Contents.swift)
+   * 4-3 选择结构 - if,else和switch [**课程视频**](http://t.imooc.com/video/11404)
+      * [if, else 和 switch](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/03-if-else-switch.playground/Contents.swift)  
+   * 4-4 switch的高级用法 [**课程视频**](http://t.imooc.com/video/11405)
+      * [区间匹配](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-1.playground/Contents.swift)
+      * [元组匹配](https://github.com/liuyu3obobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-2.playground/Contents.swift)
+      * [在元组匹配中使用缺省值](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-advanced-3.playground/Contents.swift)
+      * [fall through](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/04-switch-fallthrough.playground/Contents.swift) 
+   * 4-5 控制转移 [**课程视频**](http://t.imooc.com/video/11406)
+      * [控制转移](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/05-control-transfer.playground/Contents.swift)
+   * 4-6 where 与模式匹配 [**课程视频**](http://t.imooc.com/video/11407)
+      * [在switch中使用where](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-1-where-in-switch.playground/Contents.swift)
+      * [if case where](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-2-if-case-where.playground/Contents.swift)
+      * [for case where](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/06-3-for-case-where.playground/Contents.swift)
+   * 4-7 guard 及代码风格初探 [**课程视频**](http://t.imooc.com/video/11442)
+      * [guard](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/04-Control-Flow/07-guard.playground/Contents.swift)
+      
+* **第五章：字符串** [**源码**](https://github.com/liuyubobobo/Play-with-Swift-3/tree/master/05-Strings)
+   * 5-1 字符串基础 [**课程视频**](http://t.imooc.com/video/11408)
+      * [字符串基础](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/01-String-Basics.playground/Contents.swift)
+   * 5-2 Character和Unicode [**课程视频**](http://t.imooc.com/video/11409)
+      * [Characters](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/02-Characters.playground/Contents.swift)
+   * 5-3 String.Index 和 Range [**课程视频**](http://t.imooc.com/video/11410)
+      * [String.Index](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/03-String.playground/Contents.swift)
+   * 5-4 as 和 NSString [**课程视频**](http://t.imooc.com/video/11411)
+      * [NSString](https://github.com/liuyubobobo/Play-with-Swift-3/blob/master/05-Strings/04-NSString.playground/Contents.swift)
+   * 5-5 文档查询 [**课程视频**](http://t.imooc.com/video/11412)
+   
 ---
 
 ## Contributors and Acknowledgements 贡献者.致谢
@@ -125,7 +197,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 
 特别感谢以下github用户，帮助完善了这个课程的代码：
 
-* 暂无
+* [marderary](https://github.com/marderary)
 
 最后，感谢这个时代。
 

@@ -50,7 +50,8 @@ let volume = 20
 buy( money: money, price: price, capacity: capacity, volume: volume)
 buy2( money: money, price: price, capacity: capacity, volume: volume)
 
-//swift3 中显示的声明第一个参数可以省略，则在调用的时候可以省略第一个参数名（label）
+
+//swift3 中，使用_(下划线)显示的声明第一个参数可以省略，在调用的时候可以省略第一个参数名
 func buy3(_ money: Int , price: Int , capacity: Int , volume: Int){
     
     guard money >= price else{
@@ -69,3 +70,5 @@ func buy3(_ money: Int , price: Int , capacity: Int , volume: Int){
 
 buy3( money, price: price, capacity: capacity, volume: volume)
 
+
+// 更多和Swift函数定义相关的语法知识，请参见第二季“函数”相关章节。
